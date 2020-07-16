@@ -5,5 +5,5 @@ INSERT INTO cars
 VALUES
 
 (1,5400, 'Red', 'BMV'),
-
-(2,3500, 'Yellow', 'VW');
+(2,3500, 'Yellow', 'VW'),
+(3,35010, 'Black', 'Lada');
