@@ -44,9 +44,8 @@ public class Cars extends PanacheEntityBase {
     @Transactional
 
     public static String deleteByID(Long id) {
-
         return Cars.deleteById(id) ? "deleted" : "not deleted";
-
     }
+
 
 }
